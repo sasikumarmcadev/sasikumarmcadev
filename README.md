@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FFAB&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00FFAB&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=58A6FF&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
 ---
 
 ## 🚀 About Me
