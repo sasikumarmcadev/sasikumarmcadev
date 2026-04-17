@@ -111,6 +111,11 @@ const sasikumar = {
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasikumarmcadev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasikumarmcadev&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -119,13 +124,13 @@ const sasikumar = {
 
 ## 🌐 Connect With Me
 
-
-
-
-\
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://www.sasikumar.in/)
+[![DeciMindAI](https://img.shields.io/badge/DeciMindAI-AI%20App-blue?style=for-the-badge)](https://decimindai.sasikumar.in/)
+[![Company](https://img.shields.io/badge/Nextriad-Website-blue?style=for-the-badge)](https://nextriadsolutions.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/sasikumarmca/)
 
 ---
 
 ## 👀 Visitors
-
+![Visitor Count](https://komarev.com/ghpvc/?username=sasikumarmcadev&color=blue)
 ---
