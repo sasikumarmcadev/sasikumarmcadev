@@ -6,7 +6,6 @@
 <p align="center">
   <span style="color:#58A6FF;"><strong>MERN Stack Developer</strong></span><br/>
 </p>
----
 
 ## 🚀 About Me
 
