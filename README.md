@@ -46,12 +46,14 @@ const sasikumar = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express\&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
 
 ---
 
 ### 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge\&logo=mongodb\&logoColor=4DB33D)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=000)
 
 ---
 
@@ -60,6 +62,13 @@ const sasikumar = {
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel\&logoColor=fff)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge\&logo=netlify\&logoColor=38BDF8)
+![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-0F172A?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
+
+---
+
+### 🖥️ Desktop
+
+![Electron](https://img.shields.io/badge/Electron-20232A?style=for-the-badge\&logo=electron\&logoColor=61DAFB)
 
 ---
 
