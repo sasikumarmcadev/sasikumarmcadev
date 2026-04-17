@@ -161,8 +161,8 @@ const sasikumar = {
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
+
 ![snake gif](https://github.com/sasikumarmcadev/sasikumarmcadev/blob/output/github-contribution-grid-snake.svg)
 ---
 
