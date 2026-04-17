@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🟢 MongoDB • ⚡ Express • ⚛️ React • 🟩 Node.js
+  MERN Stack Developer 
 </p>
 ---
 
