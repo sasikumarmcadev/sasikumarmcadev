@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00FFAB&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FFAB&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00FFAB&desc=MERN%20Stack%20Developer%20%7C%20MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node&descAlignY=55&descSize=18" />
 
 ---
 
