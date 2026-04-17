@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Sasikumar&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=00F7FF" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Firebase+Expert;Building+Real+World+Apps" />
+</h1>
+
 ---
 
 ## 🚀 About Me
@@ -134,3 +140,16 @@ const sasikumar = {
 ## 👀 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=sasikumarmcadev&color=blue)
 ---
+
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  💎 <strong>Thanks for visiting my profile</strong> 💎 <br/>
+  🚀 Building real-world products with passion
+</p>
