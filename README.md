@@ -4,7 +4,9 @@
 </h1>
 
 <p align="center">
-  MERN Stack Developer 
+  <span style="color:#8B949E; font-size:18px;">
+    MERN Stack Developer
+  </span>
 </p>
 ---
 
