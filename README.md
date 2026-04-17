@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0F3D2E&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=58A6FF&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
+[Your Banner]
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sasikumar" />
+</h1>
 ---
 
 ## 🚀 About Me
