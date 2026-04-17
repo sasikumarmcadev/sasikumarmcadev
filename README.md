@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00F7FF&desc=MERN%20Stack%20Developer%20%7C%20MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node&descAlignY=55&descSize=18" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node;Building+Scalable+Web+Applications;Full+Stack+Developer+🚀" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Sasikumar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00FFAB&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" />
 
 
 ---
